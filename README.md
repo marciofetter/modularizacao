@@ -1,4 +1,4 @@
-# Modulo desenvolvendo modularizado
+# Criando seu primeiro modulo
 
 Pessoal nesta etapa vocês deveram utilizar este projeto como base e criar uma biblioteca/Pod que receba uma UIImage e analize de acordo o modelo de machine learning treinado de sua escolha. Além da UIImage o seu Pod também irá receber uma NavigationContrller que será usada para apresentar a tela com o resultados ou resultados.
 
