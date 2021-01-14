@@ -8,6 +8,9 @@ https://drive.google.com/file/d/1ElCJvnEvhtIxZkyEzVUAFPJAMgyBXo57/view e adicion
 ### Guia para criar a lib no cocoapods
 https://guides.cocoapods.org/making/using-pod-lib-create.html
 
+### Exemplo de modulo que vimos
+https://github.com/marciofetter/CarService
+
 ### Repositório com modelos já treinados que podem ser utilizados
 https://github.com/juanmorillios/List-CoreML-Models
 
