@@ -14,6 +14,9 @@ https://github.com/marciofetter/CarService
 ### Repositório com modelos já treinados que podem ser utilizados
 https://github.com/juanmorillios/List-CoreML-Models
 
+### Modelos prontos da Apple
+https://developer.apple.com/machine-learning/models/#image
+
 ### Como criar o seu próprio modelo treinado de classificação de imagens
 https://developer.apple.com/documentation/createml/creating_an_image_classifier_model
 
